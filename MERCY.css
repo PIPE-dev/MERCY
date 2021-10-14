@@ -1,0 +1,85 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.CONT-1 {
+    display: flex;
+}
+
+img {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    ;
+}
+
+ul {
+    list-style: none;
+    
+    
+}
+
+li {
+    text-align: center;
+    padding-top: 15px;
+    font-family: cursive;
+    
+}
+
+#li {
+    padding-bottom: 3px;
+}
+
+.CONT-2 {
+    flex-basis: 18%;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    background-color: #EDF5FF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 23px;
+    letter-spacing: 0.05em;
+    text-align: center;
+}
+
+.CONT-3 {
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 5px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    padding-top: 50px;
+    flex-grow: 1;
+    background-color: white;
+    padding-left: 40px;
+
+}
+
+.fa {
+    padding: 13px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px  2px;
+    border-radius: 50%;
+}
+
+.fa-github {
+    background: black;
+    color: white;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
